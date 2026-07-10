@@ -1,0 +1,111 @@
+{
+  "app": {
+    "name": "Lockbox",
+    "tagline": "Secure cloud storage",
+    "description": "Store evidence in the cloud. No registration. One unique access code only.",
+    "heroHint": "Tap to get your unique access code and start uploading materials",
+    "hasCode": "I already have a code",
+    "createVault": "Create vault",
+    "createVaultAria": "Create secure vault"
+  },
+  "keyDialog": {
+    "title": "Save your code",
+    "description": "This is the only way to access your data. The code is shown only once. Write it on paper or share it with someone you trust.",
+    "yourCode": "Your unique code",
+    "copy": "Copy code",
+    "copied": "Copied",
+    "copiedToast": "Code copied",
+    "confirm": "I saved the code in a safe place and understand it cannot be recovered if lost",
+    "continue": "Continue"
+  },
+  "accessDialog": {
+    "title": "Enter access code",
+    "description": "Enter the code you received when creating the vault",
+    "placeholder": "quiet-light-bridge-shore-A1B2",
+    "invalid": "Invalid code. Please check and try again.",
+    "checking": "Checking...",
+    "submit": "Enter"
+  },
+  "vault": {
+    "title": "Your vault",
+    "subtitle": "Data is uploaded to the cloud immediately",
+    "logout": "Log out",
+    "tabUpload": "Upload",
+    "tabRecord": "Record",
+    "tabText": "Text",
+    "uploadHint": "Tap to select a file",
+    "uploadMax": "up to 50 MB",
+    "uploadFormats": "Photos, video, audio, PDF, DOC, DOCX, TXT · photos & videos >10 MB compressed automatically",
+    "uploading": "Uploading to cloud...",
+    "compressingVideoLoading": "Preparing video compression...",
+    "compressingVideo": "Compressing video… {{percent}}%",
+    "textPlaceholder": "Describe what happened. Text will be saved to the cloud immediately.",
+    "saveText": "Save text",
+    "savedItems": "Saved materials",
+    "noItems": "No saved materials yet",
+    "download": "Download",
+    "types": {
+      "file": "File",
+      "audio": "Audio",
+      "video": "Video",
+      "text": "Text"
+    }
+  },
+  "record": {
+    "audio": "Audio recording",
+    "video": "Video recording",
+    "recording": "Recording...",
+    "stop": "Stop recording",
+    "startAudio": "Start audio recording",
+    "startVideo": "Start video recording",
+    "setupMic": "Configure microphone access",
+    "setupCamera": "Configure camera access"
+  },
+  "media": {
+    "accessTitleAudio": "Microphone access",
+    "accessTitleVideo": "Camera and microphone access",
+    "allowAccess": "Allow access",
+    "refreshAfterSettings": "Refresh page after changing settings",
+    "allowHint": "Tap \"Allow access\" — your browser will show a system prompt.",
+    "deniedHint": "Browser did not show a prompt — access is blocked. Enable it manually:",
+    "noPromptTitle": "Why is there no system prompt?",
+    "noPromptBody": "Browser blocks camera and microphone on this address. Open localhost.",
+    "secureBannerTitle": "Recording unavailable at this address",
+    "secureBannerLink": "Go to localhost"
+  },
+  "install": {
+    "bannerTitle": "Install Lockbox",
+    "bannerDescription": "Add to home screen for quick access and recording",
+    "installButton": "Install",
+    "dismiss": "Not now",
+    "iosDialogTitle": "Add to Home Screen",
+    "iosStep1": "Tap the Share button in Safari",
+    "iosStep2": "Select \"Add to Home Screen\"",
+    "iosStep3": "Tap \"Add\"",
+    "iosGotIt": "Got it"
+  },
+  "toast": {
+    "uploaded": "Uploaded to cloud",
+    "textSaved": "Text saved",
+    "createError": "Failed to create vault",
+    "loadError": "Failed to load",
+    "saveError": "Failed to save",
+    "downloadError": "Download failed"
+  },
+  "lang": {
+    "switch": "Language",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "theme": {
+    "switch": "Toggle theme",
+    "system": "System theme",
+    "light": "Light theme",
+    "dark": "Dark theme"
+  },
+  "seo": {
+    "title": "Lockbox — secure cloud storage",
+    "description": "Store evidence in the cloud without registration. One unique code — full access. Files, audio, video and text.",
+    "keywords": "secure storage, evidence, cloud storage, privacy, no registration, domestic violence"
+  }
+}
